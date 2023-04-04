@@ -10,8 +10,8 @@ namespace OpenLinkedVariableSpace
     {
         public override string Name => "OpenLinkedVariableSpace";
         public override string Author => "HinanoAira";
-        public override string Version => "1.0.1";
-        public override string Link => "https://github.com/HinanoAira/OpneLinkedVariableSpace";
+        public override string Version => "1.0.2";
+        public override string Link => "https://github.com/HinanoAira/OpenLinkedVariableSpace";
         public override void OnEngineInit()
         {
             Harmony harmony = new Harmony("jp.hinasense.OpenLinkedVariableSpace");
